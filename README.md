@@ -1,4 +1,4 @@
-# Uang electronic untuk usaha mikro, kecil, dan menengah
+# UANG ELEKTRONIK UNTUK USAHA MIKRO, KECIL & MENENGAH
 ditunjukan untuk usaha mikro yang mau menggunakan uang elektronik(Ecash) sebagai alat pembayaran atas usahanya. keuntungan yang didapatkan dari penggunaan Ecash adalah 
 ##### cepat - pribadi - aman - sederhana - No KYC
 
